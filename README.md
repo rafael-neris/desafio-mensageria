@@ -16,7 +16,7 @@ Você foi contratado para desenvolver essa solução e garantir que ela siga as 
 
 Criar uma API REST para receber solicitações de pagamento. O endpoint deve:
 
-Aceitar requisições POST /pagamentos com um payload JSON contendo:
+Aceitar requisições POST /pagamento com um payload JSON contendo:
 
 ```
 {
