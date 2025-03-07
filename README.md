@@ -42,3 +42,8 @@ Criar um consumidor que:
 Leia mensagens da fila do RabbitMQ.
 
 Salve o pagamento no banco de dados
+
+
+Recomendações:
+- PHPMD
+
